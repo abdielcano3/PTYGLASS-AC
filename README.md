@@ -1,5 +1,7 @@
 # PTYGLASS-AC
 
+[Balboa Coin Whitepaper](https://pty.glass/docs/balboa-coin.html)
+
 ## N E W   I D E A S
 
 * Using the idea of the Fourteenth month, that the additional income of this is distributed to people on the day on which birthday, this would bring an advantage to the country as this would not cause a traffic at critical levels to the country as it happens in the payments of the thirteenth month.
@@ -12,3 +14,6 @@
 
 * Create a section where I talk about what the Panamanian can do with the Balboa Coin, since despite being able to accept this new cryptocurrency, many will not know what to do with it and simply forget it.
 
+* If the person has committed a crime or crime this will be reduced or removed the money of the fourteenth month.
+
+* More data is needed to decide what is the best way to manage distribution. Smaller distribution could be made on different terms and a data driven decision could be made from the results.
